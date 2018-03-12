@@ -1,7 +1,7 @@
 {
-  "name": "workshop-101",
+  "name": "css-101",
   "version": "1.0.0",
-  "description": "frontend 101",
+  "description": "css 101",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
